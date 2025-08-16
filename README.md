@@ -1,8 +1,8 @@
-# Maintenance Manual Generator
+# GPT Maintenance Manual Generator
 
 🔧 **An AI-powered tool that converts maintenance and repair videos into structured instruction manuals with timestamps and images.**
 
-![Maintenance Manual Generator](logo/Maintenance%20Manual%20Generator.png)
+![GPT Maintenance Manual Generator](logo/Maintenance%20Manual%20Generator.png)
 
 ## Features
 
@@ -31,8 +31,8 @@
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/maintenance-manual-generator.git
-cd maintenance-manual-generator
+git clone https://github.com/Toochii2/gpt-maintenance-manual-generator.git
+cd gpt-maintenance-manual-generator
 ```
 
 2. Create a virtual environment:

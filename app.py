@@ -23,7 +23,7 @@ import shutil  # Add this import at the top with other imports
 
 # Set page configuration with expanded layout by default
 st.set_page_config(
-    page_title="Maintenance Manual Generator",
+    page_title="GPT Maintenance Manual Generator",
     page_icon="🔧",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -218,7 +218,7 @@ def initialize_client():
 client = initialize_client()
 
 # Main content area
-st.title("🔧 Maintenance Manual Generator")
+st.title("🔧 GPT Maintenance Manual Generator")
 
 # Initialize session state for tracking progress
 if 'processing_stage' not in st.session_state:
@@ -1735,4 +1735,4 @@ else:
 
 # Display footer
 st.markdown("---")
-st.caption("© 2025 Maintenance Manual Generator | Uses OpenAI API for transcription and processing")
+st.caption("© 2025 GPT Maintenance Manual Generator | Uses OpenAI API for transcription and processing")

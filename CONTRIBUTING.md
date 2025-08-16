@@ -1,6 +1,6 @@
-# Contributing to Maintenance Manual Generator
+# Contributing to GPT Maintenance Manual Generator
 
-Thank you for your interest in contributing to the Maintenance Manual Generator! This document provides guidelines and information for contributors.
+Thank you for your interest in contributing to the GPT Maintenance Manual Generator! This document provides guidelines and information for contributors.
 
 ## Code of Conduct
 
@@ -40,8 +40,8 @@ By participating in this project, you agree to abide by our code of conduct. Ple
 1. **Fork the repository** on GitHub
 2. **Clone your fork** locally:
 ```bash
-git clone https://github.com/yourusername/maintenance-manual-generator.git
-cd maintenance-manual-generator
+git clone https://github.com/yourusername/gpt-maintenance-manual-generator.git
+cd gpt-maintenance-manual-generator
 ```
 
 3. **Create a virtual environment**:
@@ -149,7 +149,7 @@ git rebase main
 ## Project Structure
 
 ```
-maintenance-manual-generator/
+gpt-maintenance-manual-generator/
 ├── app.py                 # Main Streamlit application
 ├── requirements.txt       # Python dependencies
 ├── .streamlit/           # Streamlit configuration
