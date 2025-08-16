@@ -15,7 +15,6 @@
 - **Professional Documents**: Generates formatted Word documents
 - **Customizable Output**: Flexible formatting and content options
 
-
 ## Getting Started
 
 ### Prerequisites
