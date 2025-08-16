@@ -2,7 +2,7 @@
 
 🔧 **An AI-powered tool that converts maintenance and repair videos into structured instruction manuals with timestamps and images.**
 
-![GPT Maintenance Manual Generator](logo/Maintenance%20Manual%20Generator.png)
+![GPT Maintenance Manual Generator](image/image.png)
 
 ## Features
 
@@ -15,9 +15,6 @@
 - **Professional Documents**: Generates formatted Word documents
 - **Customizable Output**: Flexible formatting and content options
 
-## Interface Preview
-
-![App Interface](image/image.png)
 
 ## Getting Started
 
