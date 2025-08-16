@@ -31,8 +31,8 @@
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Toochii2/gpt-maintenance-manual-generator.git
-cd gpt-maintenance-manual-generator
+git clone https://github.com/Toochii2/GPT-Maintenance-Manual-Generator.git
+cd GPT-Maintenance-Manual-Generator
 ```
 
 2. Create a virtual environment:

@@ -40,8 +40,8 @@ By participating in this project, you agree to abide by our code of conduct. Ple
 1. **Fork the repository** on GitHub
 2. **Clone your fork** locally:
 ```bash
-git clone https://github.com/yourusername/gpt-maintenance-manual-generator.git
-cd gpt-maintenance-manual-generator
+git clone https://github.com/yourusername/GPT-Maintenance-Manual-Generator.git
+cd GPT-Maintenance-Manual-Generator
 ```
 
 3. **Create a virtual environment**:
@@ -149,7 +149,7 @@ git rebase main
 ## Project Structure
 
 ```
-gpt-maintenance-manual-generator/
+GPT-Maintenance-Manual-Generator/
 ├── app.py                 # Main Streamlit application
 ├── requirements.txt       # Python dependencies
 ├── .streamlit/           # Streamlit configuration
