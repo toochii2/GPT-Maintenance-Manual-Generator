@@ -23,7 +23,7 @@
 
 ### Prerequisites
 
-- Python 3.8 or higher
+- Python 3.11 or higher
 - OpenAI API key
 - Required Python packages (see requirements.txt)
 
