@@ -1,0 +1,9 @@
+# filepath: c:\Users\tooch\Documents\python-icmr-2\.streamlit\config.toml
+[server]
+maxUploadSize = 2000
+# Prevents watching certain modules
+fileWatcherType = "poll"
+
+[runner]
+# Add modules to the "do not watch" list
+moduleExcludedFromWatching = ["torch", "sentence_transformers"]
